@@ -33,9 +33,19 @@ header ul {
     text-align: left;
 }
 
-header .headerblock {
+header .header_block {
     display: inline-block;
     padding-bottom: 10px;
     padding-left: 70px;
     padding-right: 70px;
+}
+
+section h1, div {
+    display: inline-block;
+    text-align: left;
+}
+
+footer {
+    padding: 10px;
+    border-top: 2px solid white;
 }
